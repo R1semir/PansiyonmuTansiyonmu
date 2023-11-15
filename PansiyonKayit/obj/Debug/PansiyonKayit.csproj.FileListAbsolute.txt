@@ -1,0 +1,11 @@
+C:\Users\legen\source\repos\PansiyonKayit\PansiyonKayit\bin\Debug\PansiyonKayit.exe.config
+C:\Users\legen\source\repos\PansiyonKayit\PansiyonKayit\bin\Debug\PansiyonKayit.exe
+C:\Users\legen\source\repos\PansiyonKayit\PansiyonKayit\bin\Debug\PansiyonKayit.pdb
+C:\Users\legen\source\repos\PansiyonKayit\PansiyonKayit\obj\Debug\PansiyonKayit.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\PansiyonKayit\PansiyonKayit\obj\Debug\PansiyonKayit.FrmKayitForm.resources
+C:\Users\legen\source\repos\PansiyonKayit\PansiyonKayit\obj\Debug\PansiyonKayit.Properties.Resources.resources
+C:\Users\legen\source\repos\PansiyonKayit\PansiyonKayit\obj\Debug\PansiyonKayit.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\PansiyonKayit\PansiyonKayit\obj\Debug\PansiyonKayit.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\PansiyonKayit\PansiyonKayit\obj\Debug\PansiyonKayit.exe
+C:\Users\legen\source\repos\PansiyonKayit\PansiyonKayit\obj\Debug\PansiyonKayit.pdb
+C:\Users\legen\source\repos\PansiyonKayit\PansiyonKayit\obj\Debug\PansiyonKayit.FrmAdmin.resources
